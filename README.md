@@ -3,6 +3,8 @@
 
 ### Kayıt Ol Ekranı
 Uygulamaya girmek için öncelikle kayıt olmamız gerekiyor. Kayıt ekranı aşağıdaki gibidir. Bilgilerin hepsi firebase e kayıt oluyor.
+
+
 ![Alt text](https://i.hizliresim.com/44u8ke5.png)
 
 
